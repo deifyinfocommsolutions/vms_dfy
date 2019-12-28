@@ -1,2 +1,1 @@
-# vms_dfy
-Venture Management System for iBeads
+Venture Management Portal for iBeads
